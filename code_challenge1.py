@@ -1,0 +1,2 @@
+name=input()
+print("\t\t\t\t\t*\n\n\n"   "\t\t\t\t*\t\t*\n\n\n"    "\t\t\t*\t\t\t\t*\n\n\n"    "\t\t*\t\t\t\t\t\t*\n\n\n"    "\t*\t\t\t\t" "Hi,",name,"\t\t\t*\n\n\n"      "\t\t*\t\t\t\t\t\t*\n\n\n"      "\t\t\t*\t\t\t\t*\n\n\n"    "\t\t\t\t*\t\t*\n\n\n"    "\t\t\t\t\t*\n\n")
