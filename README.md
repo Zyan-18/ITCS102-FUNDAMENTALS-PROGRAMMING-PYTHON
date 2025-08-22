@@ -9,11 +9,13 @@ Hello Lord
 Ako nga po pala sa Princess
 
 [activity3.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/activity3.py
-
+Juancho is that you?
 
 [activity4.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/activity4.py
+Pangalan ulit
 
 [activity5.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/activity5.py
+
 
 [activity6.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/activity6.py
 
