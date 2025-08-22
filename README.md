@@ -15,11 +15,13 @@ Juancho is that you?
 Pangalan ulit
 
 [activity5.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/activity5.py
-
+Math
 
 [activity6.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/activity6.py
+Mathematics
 
 [activity7.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/activity7.py
+
 
 [activity8.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/activity8.py
 
