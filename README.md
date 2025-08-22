@@ -3,10 +3,13 @@ Repository of Computer Program developed in Python for our Subject ITCS102 - Fir
 Beginning of another chapter.
 
 [Activity1.txt] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/Activity1.txt
+Hello Lord
 
 [activity2.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/activity2.py
+Ako nga po pala sa Princess
 
 [activity3.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/activity3.py
+
 
 [activity4.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/activity4.py
 
