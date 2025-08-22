@@ -6,10 +6,10 @@ Beginning of another chapter.
 Hello Lord
 
 [activity2.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/activity2.py
-Ako nga po pala sa Princess
+Name ko
 
 [activity3.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/activity3.py
-Juancho is that you?
+True
 
 [activity4.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/activity4.py
 Pangalan ulit
@@ -36,4 +36,4 @@ Pamasahe
 Si \t at \n
 
 [code_challenge2.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/code_challenge2.py
-Wala akong bank account
+Bank account ko
