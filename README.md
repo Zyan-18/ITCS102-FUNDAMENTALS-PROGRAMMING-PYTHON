@@ -21,9 +21,10 @@ Math
 Mathematics
 
 [activity7.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/activity7.py
-
+Find the value of a
 
 [activity8.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/activity8.py
+Wala akong pera
 
 [activity9.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/activity9.py
 
