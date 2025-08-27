@@ -37,3 +37,9 @@ Si \t at \n
 
 [code_challenge2.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/code_challenge2.py
 Bank account ko
+
+[code_challenge3.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/code_challenge3.py
+accepted or denied?
+
+[code_challenge4.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/code_challenge4.py
+odd or even?
