@@ -46,3 +46,6 @@ accepted or denied?
 
 [code_challenge4.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/code_challenge4.py
 odd or even?
+
+[code_challenge5.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/code_challenge5.py
+Manga
