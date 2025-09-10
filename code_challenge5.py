@@ -73,3 +73,4 @@ if genre == "4" and duration == "long":
 		print("\n Astra Lost in Space (2016–2018)\n", "Boku no Hero Academia: Vigilantes (2016–2022)\n", "Blue Hole: The Deep Sea (2010s)")
 else:
 	print("Invalid input. Please restart again.")
+
