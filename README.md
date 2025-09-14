@@ -35,6 +35,9 @@ Pamasahe
 [activity11.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/activity11.py
 temperature
 
+[activity12.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/activity12.py
+loop, 15 numbers
+
 [code_challenge1.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/code_challenge1.py
 Si \t at \n
 
