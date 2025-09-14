@@ -41,6 +41,9 @@ loop, 15 numbers
 [activity13.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/activity13.py
 loop, hello world
 
+[activity14.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/activity14.py
+ascending and descending order
+
 [code_challenge1.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/code_challenge1.py
 Si \t at \n
 
