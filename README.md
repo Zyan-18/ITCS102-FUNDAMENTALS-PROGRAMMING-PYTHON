@@ -38,6 +38,9 @@ temperature
 [activity12.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/activity12.py
 loop, 15 numbers
 
+[activity13.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/activity13.py
+loop, hello world
+
 [code_challenge1.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/code_challenge1.py
 Si \t at \n
 
