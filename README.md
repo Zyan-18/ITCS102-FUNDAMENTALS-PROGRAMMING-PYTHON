@@ -58,3 +58,9 @@ odd or even?
 
 [code_challenge5.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/code_challenge5.py
 Manga
+
+[code_challenge6.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/code_challenge6.py
+Factorial Program
+
+[code_challenge7.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/code_challenge7.py
+Odd Numbers Summation
