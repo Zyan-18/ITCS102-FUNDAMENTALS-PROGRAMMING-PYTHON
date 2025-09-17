@@ -64,3 +64,9 @@ Factorial Program
 
 [code_challenge7.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/code_challenge7.py
 Odd Numbers Summation
+
+[code_challenge8.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/code_challenge8.py
+Multiplication Table Maker
+
+[code_challenge9.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/code_challenge9.py
+Countdown Simulator
