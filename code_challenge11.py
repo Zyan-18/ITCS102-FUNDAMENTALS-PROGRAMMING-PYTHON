@@ -1,4 +1,4 @@
-#Diamond Asteries
+#Diamond Asterisks
 
 for z in range(1,11,1):
     for y in range(10,z,-1):
@@ -17,3 +17,4 @@ for z in range(1,11,1):
     for a in range(9,z,-1):
         print("*", end=" ")
     print()
+
