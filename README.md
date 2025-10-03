@@ -96,3 +96,5 @@ Pyramid Asterisks
 [code_challenge11.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/code_challenge11.py
 Diamond Asterisks
 
+[code_challenge12.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/code_challenge12.py
+Triangle numbers
