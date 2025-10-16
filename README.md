@@ -104,3 +104,6 @@ Triangle numbers
 
 [code_challenge13.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/code_challenge13.py
 Christmas tree
+
+[code_challenge14.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/code_challenge14.py
+ODD number compiler, 0 to terminate the loop.
