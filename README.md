@@ -62,6 +62,9 @@ STRING FORMATTING
 [activity20.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/activity20.py
 10-10
 
+[activity21.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/activity21.py
+Washing Machine
+
 
 [code_challenge1.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/code_challenge1.py
 Si \t at \n
