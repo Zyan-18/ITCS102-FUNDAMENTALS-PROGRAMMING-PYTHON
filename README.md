@@ -107,3 +107,6 @@ Christmas tree
 
 [code_challenge14.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/code_challenge14.py
 ODD number compiler, 0 to terminate the loop.
+
+[code_challenge15.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/code_challenge15.py
+Anime List
