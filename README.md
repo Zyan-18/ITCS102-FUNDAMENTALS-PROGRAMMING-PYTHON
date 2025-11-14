@@ -78,7 +78,10 @@ from and import
 from activity25
 
 [activity25_1.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/activity25_1.py
-def activity 12,13,14,15
+def activity 11,12,13,14,15
+
+[activity25_2.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/activity25_2.py
+def activity 16,17,18,19,20
 
 [activity26.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/activity26.py
 dictionary
