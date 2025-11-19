@@ -47,13 +47,14 @@ while True:
          continue
     elif choice == "P":
          for i,j in student_record.items():
-              print(f"CODE - {i} STORD INFORMATION: {J}")
+              print(f"CODE - {i} STORD INFORMATION: {j}")
               continue
     elif choice == "E":
          print("SYSTEM EXIT")
          break
     else:
          print("\n INVALID CHOICE, please RE-ENTER YOUR CHOICE.")
+
 
 
                   
