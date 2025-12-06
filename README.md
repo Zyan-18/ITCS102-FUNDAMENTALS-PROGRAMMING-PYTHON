@@ -65,6 +65,9 @@ STRING FORMATTING
 [activity21.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/activity21.py
 Washing Machine
 
+[activity22.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/activity22.py
+Guess the number game
+
 [activity23.py] https://github.com/Zyan-18/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/activity23.py
 Listing
 
